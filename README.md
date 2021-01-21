@@ -7,11 +7,11 @@
 
 ## Team:
 
+* Silvia Frasson
 * Aldo Pallucci
 * Davide Del Buono
 * Giuseppe Tegano
 * Marco Maniaci
-* Silvia Frasson
 
 # Diagramma Entità-Relazione del Progetto
 ![ERDiagram](./assets/Final_Project_ER_Diagram.png)
